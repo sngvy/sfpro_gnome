@@ -1,5 +1,5 @@
 # sfpro_gnome
-Pack of San Francisco fonts for GNOME
+Pack of San Francisco fonts for GNOME (Tested on Fedora 35)
 # Install
 1. Download sfpro.tar.xz
 2. Paste in terminal: sudo tar -xvf sfpro.tar.xz && sudo mv sfpro /usr/share/fonts/truetype
